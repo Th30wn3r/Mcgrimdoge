@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf7f8f28fE2744171cE52fC2A3B0d4Cf88Faa8bD3",
+  "SCAN_LINK": "https://bscscan.com/token/0xf7f8f28fE2744171cE52fC2A3B0d4Cf88Faa8bD3",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BSC",
+    "ID": 56
+  },
+  "NFT_NAME": "McGrimDoge",
+  "SYMBOL": "MGD",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 290000,
+  "MARKETPLACE": "Tofunft",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
